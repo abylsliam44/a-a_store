@@ -75,7 +75,7 @@ main {
 }
 
 
-/* Стили для навигации */
+
 #main-nav {
     background-color: #fff;
     padding: 10px 0;
@@ -83,10 +83,10 @@ main {
     box-shadow: none;
 }
 
-/* Стили для ссылок навигации */
+
 .nav-link {
     color: #000;
-    padding: 8px 20px; /* Уменьшено значение padding */
+    padding: 8px 20px; 
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 600;
