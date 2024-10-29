@@ -15,7 +15,7 @@ We wanted to explore various modern web development techniques, including carous
 
 ## Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla JS), Bootstrap 4.5
+- **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 4.5
 
 ## Features
 
