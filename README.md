@@ -101,12 +101,12 @@ An interactive background color feature allows users to change the look and feel
 
 1. Clone the GitHub repository:
    ```bash
-   git clone https://github.com/your-username/aa-clothing-store.git
+   git clone https://github.com/abylsliam44/a-a_store
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd aa-clothing-store
+   cd frontend
    ```
 
 3. Open the `main.html` file in any web browser to view the main page and navigate to other sections of the website.
@@ -125,7 +125,7 @@ An interactive background color feature allows users to change the look and feel
 
 ## GitHub Repository
 
-[GitHub Repository Link](https://github.com/your-username/aa-clothing-store)
+[GitHub Repository Link](https://github.com/abylsliam44/a-a_store)
 
 ---
 
