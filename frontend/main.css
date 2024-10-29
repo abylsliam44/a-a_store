@@ -32,9 +32,9 @@ body {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
-/* New Banner Section Styling */
+
 #banner-section {
-    background: url('your-background-image.jpg') no-repeat center center; /* Add your background */
+    background: url('your-background-image.jpg') no-repeat center center; 
     background-size: cover;
     padding: 60px 20px;
     text-align: center;
